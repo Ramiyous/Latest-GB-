@@ -1,8 +1,8 @@
 {
 	"ADS": {
-		 "banner_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
+		 "banner_type": "yandex",
+		"native_type": "yandex",
+		"inter_type": "yandex",
 
 		"rewarde_type": "admob",
 		
@@ -11,10 +11,10 @@
 
 		"ironsource_id": "11c7e1165",
 
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
-		"rewarde_yandex": "adf-279013/966487",
+		"interstitial_yandex": "R-M-2127406-3",
+		"banner_yandex": "R-M-2127406-1",
+		"native_yandex": "R-M-2127406-2",
+		"rewarde_yandex": "R-M-2127406-4",
 
 		"banner_applovin": "adf-279013/966533",
 		"native_applovin": "adf-279013/966533",
@@ -52,4 +52,3 @@
 		"facebook_rewarde2": "ca-app-pub-4567"
 	}  
    }
-//sf hahiya data dyalo  sf db howa hadak dir test dyalk db 
